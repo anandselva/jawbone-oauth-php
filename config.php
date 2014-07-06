@@ -26,4 +26,4 @@ $scopes[] = "cardiac_write";
 $scopes[] = "generic_event_read";
 $scopes[] = "generic_event_write";
 
-$scope = implode(' ', $scope);
+$scope = implode(' ', $scopes);
